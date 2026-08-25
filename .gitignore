@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Zip files / archives
+*.zip
+
+# OS / IDE metadata
+.DS_Store
+.vscode/
+.idea/
